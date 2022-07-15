@@ -52,15 +52,19 @@ namespace Task_1
                                 break;
                             }
                     }
-                }            
+                }
             }
-            catch(OverflowException)
+            catch (OverflowException)
             {
-                Console.WriteLine("OverflowException, you entered wrong number");
+                Console.WriteLine("OverflowException, you entered too large number");
             }
-            catch(DivideByZeroException)
+            catch (DivideByZeroException)
             {
-                Console.WriteLine("DivideByZeroException, you entered number2 by zero");
+                Console.WriteLine("DivideByZeroException, you entered number1 by zero");
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("FormatException, you entered wrong number");
             }
         }
     }
