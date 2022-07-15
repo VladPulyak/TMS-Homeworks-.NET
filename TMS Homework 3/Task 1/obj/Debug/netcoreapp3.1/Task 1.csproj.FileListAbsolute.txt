@@ -1,0 +1,14 @@
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.AssemblyReference.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\TMS Homework 3\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
