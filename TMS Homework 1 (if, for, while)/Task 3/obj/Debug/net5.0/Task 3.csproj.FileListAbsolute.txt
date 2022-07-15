@@ -1,0 +1,16 @@
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.exe
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.deps.json
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.dll
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\bin\Debug\net5.0\Task 3.pdb
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.csproj.AssemblyReference.cache
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.dll
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\refint\Task 3.dll
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.pdb
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache
+D:\Проекты VS2019\TMS Homework 1 (if, for, while)\Task 3\obj\Debug\net5.0\ref\Task 3.dll
