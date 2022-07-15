@@ -51,6 +51,11 @@ namespace Task_1
                                 Console.WriteLine($"Result: { number1 % number2}");
                                 break;
                             }
+                        default:
+                            {
+                                Console.WriteLine("FormatException, you entered wrong number");
+                                break;
+                            }
                     }
                 }
             }
