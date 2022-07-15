@@ -15,25 +15,25 @@ namespace Task_1
                     Console.WriteLine("Enter second number");
                     double number2 = int.Parse(Console.ReadLine());
                     Console.WriteLine("Enter operation");
-                    string operation = Console.ReadLine();
+                    char operation = char.Parse(Console.ReadLine());
                     switch (operation)
                     {
-                        case "+":
+                        case '+':
                             {
                                 Console.WriteLine($"Result: { number1 + number2}");
                                 break;
                             }
-                        case "-":
+                        case '-':
                             {
                                 Console.WriteLine($"Result: { number1 - number2}");
                                 break;
                             }
-                        case "*":
+                        case '*':
                             {
                                 Console.WriteLine($"Result: { number1 * number2}");
                                 break;
                             }
-                        case "/":
+                        case '/':
                             {
                                 if (number2 == 0)
                                 {
@@ -42,7 +42,7 @@ namespace Task_1
                                 Console.WriteLine($"Result: { number1 / number2}");
                                 break;
                             }
-                        case "%":
+                        case '%':
                             {
                                 if (number2 == 0)
                                 {
