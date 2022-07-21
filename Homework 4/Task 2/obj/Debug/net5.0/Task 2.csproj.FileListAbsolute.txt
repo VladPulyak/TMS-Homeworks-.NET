@@ -1,0 +1,16 @@
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.exe
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.deps.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.dev.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\bin\Debug\net5.0\Task 2.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.csproj.AssemblyReference.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfoInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfo.cs
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.csproj.CoreCompileInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\refint\Task 2.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\Task 2.genruntimeconfig.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 4\Task 2\obj\Debug\net5.0\ref\Task 2.dll
