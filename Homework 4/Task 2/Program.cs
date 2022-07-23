@@ -15,6 +15,7 @@ namespace Task_2
                 Console.WriteLine($"Enter {i} element");
                 arr[i] = int.Parse(Console.ReadLine());
             }
+
             Stack<int> stack = new Stack<int>(arr);
             foreach(int i in stack)
             {
