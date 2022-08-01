@@ -54,6 +54,7 @@ namespace Task_2
             if (firstFraction.Denominator == secondFraction.Denominator)
             {
                 resultFraction.Numerator = firstFraction.Numerator - secondFraction.Numerator;
+                resultFraction.Denominator = firstFraction.Denominator;
             }
             else
             {
@@ -83,6 +84,25 @@ namespace Task_2
         public void Print()
         {
             Console.WriteLine($"{Numerator}/{Denominator}");
+        }
+        public int Nod(Fraction fraction)
+        {
+            int numerator = fraction.Numerator;
+            int denominator = fraction.Denominator;
+            numerator = Math.Abs(numerator);
+            denominator = Math.Abs(denominator);
+            while (denominator != 0 && numerator != 0)
+            {
+                if (numerator % denominator > 0)
+                {
+                    var temp = numerator;
+                    numerator = denominator;
+                    denominator = temp % denominator;
+                }
+                else break;
+            }
+            if (denominator != 0 && numerator != 0) return denominator;
+            return 0;
         }
     }
 }
