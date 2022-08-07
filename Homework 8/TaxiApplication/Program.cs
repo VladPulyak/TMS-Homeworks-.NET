@@ -63,7 +63,6 @@ namespace TaxiApplication
                             {
                                 Console.WriteLine("You have not enough money on this type of vehicle");
                             }
-
                             break;
                         }
                     case 4:

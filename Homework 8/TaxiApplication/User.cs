@@ -13,9 +13,7 @@ namespace TaxiApplication
         {
             Name = name;
             Surname = surname;
-            PhoneNumber = phoneNumber;
-            //IPaymentMethod cash = new Cash();
-            //IPaymentMethod point = new Point();
+            PhoneNumber = phoneNumber;;
             PaymentMethods.Add("Cash", new Cash());
             PaymentMethods.Add("Points", new Point());
         }
@@ -37,7 +35,7 @@ namespace TaxiApplication
         public void TopUpCash(double amountOfMoney)
         {
             PaymentMethods["Cash"].AddMoney(amountOfMoney);
-            PaymentMethods["Points"].AddMoney(amountOfMoney);
+            //PaymentMethods["Points"].AddMoney(amountOfMoney);
             Console.WriteLine("Successful!");
         }
         public void TopUpCard(double amountOfMoney, string cardName)
@@ -46,7 +44,7 @@ namespace TaxiApplication
             if (isContainCard)
             {
                 PaymentMethods[cardName].AddMoney(amountOfMoney);
-                PaymentMethods["Points"].AddMoney(amountOfMoney);
+                //PaymentMethods["Points"].AddMoney(amountOfMoney);
                 Console.WriteLine("Successful!");
             }
             else

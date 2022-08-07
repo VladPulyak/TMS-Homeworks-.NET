@@ -25,9 +25,10 @@ namespace TaxiApplication
             AmountOfPoints = AmountOfPoints + countOfMoney / 3;
         }
 
-        public bool IsPaymentPossible(double countOfPoints)
+        public bool IsPaymentPossible(double countOfMoney)
         {
-            if (AmountOfPoints < countOfPoints)
+            countOfMoney /= 3;
+            if (AmountOfPoints < countOfMoney)
             {
                 return false;
             }
@@ -39,7 +40,7 @@ namespace TaxiApplication
 
         public void MakePayment(double countOfPoints)
         {
-            countOfPoints /= 3; 
+            countOfPoints /= 3;
             if (AmountOfPoints < countOfPoints)
             {
                 Console.WriteLine($"Lack {countOfPoints - AmountOfPoints} points");

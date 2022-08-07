@@ -24,6 +24,7 @@ namespace TaxiApplication
         public void MakeRide(User user)
         {
             Console.WriteLine($"{user.Name} {user.Surname} made a trip on {Color} Motorbike: {Model}");
+            user.PaymentMethods["Points"].AddMoney(15);
         }
         public override string ToString()
         {
