@@ -9,12 +9,12 @@ namespace TaxiApplication
     internal class User
     {
         private Dictionary<string, IPaymentMethod> _paymentMethods = new Dictionary<string, IPaymentMethod>();
-        public User(string name, string surname, string phoneNumber)
+        public User(string name, string surname, string phoneNumber,double startCash)
         {
             Name = name;
             Surname = surname;
             PhoneNumber = phoneNumber;;
-            PaymentMethods.Add("Cash", new Cash());
+            PaymentMethods.Add("Cash", new Cash(startCash));
             PaymentMethods.Add("Points", new Point());
         }
         public Dictionary<string, IPaymentMethod> PaymentMethods
@@ -35,7 +35,6 @@ namespace TaxiApplication
         public void TopUpCash(double amountOfMoney)
         {
             PaymentMethods["Cash"].AddMoney(amountOfMoney);
-            //PaymentMethods["Points"].AddMoney(amountOfMoney);
             Console.WriteLine("Successful!");
         }
         public void TopUpCard(double amountOfMoney, string cardName)
@@ -44,7 +43,6 @@ namespace TaxiApplication
             if (isContainCard)
             {
                 PaymentMethods[cardName].AddMoney(amountOfMoney);
-                //PaymentMethods["Points"].AddMoney(amountOfMoney);
                 Console.WriteLine("Successful!");
             }
             else

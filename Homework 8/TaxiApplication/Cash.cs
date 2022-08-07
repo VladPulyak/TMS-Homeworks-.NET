@@ -8,10 +8,14 @@ namespace TaxiApplication
 {
     internal class Cash : IPaymentMethod
     {
+        public Cash(double startCash)
+        {
+            AmountOfMoney = startCash;
+        }
         public double AmountOfMoney { get; set; }
         public void AddMoney(double countOfMoney)
         {
-            AmountOfMoney = countOfMoney;
+            AmountOfMoney += countOfMoney;
         }
 
         public bool IsPaymentPossible(double countOfMoney)

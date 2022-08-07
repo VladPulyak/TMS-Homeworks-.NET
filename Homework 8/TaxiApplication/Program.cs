@@ -13,7 +13,7 @@ namespace TaxiApplication
                 new Motorbike("Green", "Harley", "854940", 7.5),
                 new Helicopter("Zvezda",140,"23423432",8.9),
             };
-            User user = new User("Vlad", "Pulyak", "46546545");
+            User user = new User("Vlad", "Pulyak", "46546545",10000);
             int action = 0;
             while (action != 4)
             {
@@ -33,12 +33,25 @@ namespace TaxiApplication
                         }
                     case 2:
                         {
-                            Console.WriteLine("Enter card name");
-                            string cardName = Console.ReadLine();
+                            Console.WriteLine("Enter card name or Cash");
+                            string cardNameOrCash = Console.ReadLine();
+                            if (cardNameOrCash == "Points")
+                            {
+                                Console.WriteLine("You cannot top up points");
+                                break;
+                            }
                             Console.WriteLine("Enter amount of money");
                             double amountOfMoney = double.Parse(Console.ReadLine());
-                            user.TopUpCard(amountOfMoney, cardName);
-                            break;
+                            if (cardNameOrCash == "Cash")
+                            {
+                                user.TopUpCash(amountOfMoney);
+                                break;
+                            }
+                            else
+                            {
+                                user.TopUpCard(amountOfMoney, cardNameOrCash);
+                                break;
+                            }
                         }
                     case 3:
                         {
@@ -76,7 +89,7 @@ namespace TaxiApplication
         public static void Menu()
         {
             Console.WriteLine(@"1.Add new card " + Environment.NewLine +
-                               "2.Top up the card" + Environment.NewLine +
+                               "2.Top up the card or cash" + Environment.NewLine +
                                "3.Make a trip" + Environment.NewLine +
                                "4.Exit program");
         }
