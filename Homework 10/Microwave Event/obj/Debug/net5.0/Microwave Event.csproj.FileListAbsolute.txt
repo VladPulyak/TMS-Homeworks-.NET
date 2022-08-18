@@ -1,0 +1,16 @@
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.exe
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.deps.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.runtimeconfig.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.runtimeconfig.dev.json
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\bin\Debug\net5.0\Microwave Event.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.csproj.AssemblyReference.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.AssemblyInfoInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.AssemblyInfo.cs
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.csproj.CoreCompileInputs.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\refint\Microwave Event.dll
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.pdb
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\Microwave Event.genruntimeconfig.cache
+D:\.NET projects\TMS Homeworks\TMS-Homeworks-.NET\Homework 10\Microwave Event\obj\Debug\net5.0\ref\Microwave Event.dll
