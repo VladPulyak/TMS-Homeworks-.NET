@@ -1,0 +1,16 @@
+﻿@model Fish[]
+@{
+    <span>Print with Models</span>
+    <hr />
+    var str = string.Empty;
+    Model[0].Name = ViewData["NewName"] as string;
+    Model[0].Weight = ViewBag.NewWeight;
+    @foreach (var fish in Model)
+    {
+        <div>
+            @("Name: " + fish.Name + ", Weight: " + fish.Weight + ", Speed: " + fish.Speed)
+        </div>
+    }
+}
+
+
